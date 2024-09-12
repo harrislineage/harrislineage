@@ -3,8 +3,6 @@
 ### About Me
 Jack of all trades, yet master of none - I am new(ish) to GitHub and collaborative coding. I spend most of time working on genealogy at [WikiTree](https://www.wikitree.com) and have been making contributions to the [WikiTree Apps Project](https://www.wikitree.com/wiki/Project:WikiTree_Apps) since 2021.
 
-[![@harrislineage's Holopin badges](https://holopin.me/harrislineage)](https://holopin.io/@harrislineage)
-
 ### Languages and Tools
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
