@@ -3,7 +3,7 @@
 ### About Me
 Jack of all trades, yet master of none - I am new(ish) to GitHub and collaborative coding. I spend most of time working on genealogy at [WikiTree](https://www.wikitree.com) and have been making contributions to the [WikiTree Apps Project](https://www.wikitree.com/wiki/Project:WikiTree_Apps) since 2021.
 
-With the kickoff of [Hacktoberfest 2022](https://github.com/search?q=hacktoberfest), I’m currently working on the [wikiTree-dynamic-tree](https://github.com/wikitree/wikitree-dynamic-tree)🌳 and [wikiTree-browser-extension](https://github.com/wikitree/wikitree-browser-extension)🍂 repos.
+[![@harrislineage's Holopin badges](https://holopin.me/harrislineage)](https://holopin.io/@harrislineage)
 
 ### Languages and Tools
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
